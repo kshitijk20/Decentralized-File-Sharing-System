@@ -53,3 +53,7 @@ This project aims to demonstrate the power of blockchain and decentralized techn
 By the end of this project, you'll have a working prototype of a decentralized file sharing application, showcasing the capabilities of blockchain and decentralized technologies in the realm of file storage and access control. We encourage you to explore, experiment, and contribute to the project's growth!
 
 Feel free to leave comments, suggestions, or feedback below. Happy coding!
+
+## Contributors
+- Richa Prakash Sachan
+- Kshitij Kaithal
